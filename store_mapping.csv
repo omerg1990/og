@@ -151,17 +151,14 @@ Teavana,Level 3,3,37.783814,-122.407399
 Steve Madden,Level 3,3,37.784197,-122.40698
 Forever Flawless,Level 3,3,37.784701,-122.406758
 Solstice,Level 3,3,37.78436,-122.406786
-TAP 415,Level 4/N1,4,37.78442,-122.406832
-Optica,Level 4/N1,4,37.784702,-122.406248
-M.Y. China,Level 4/N1,4,37.784206,-122.406528
-Bespoke Coworking,Level 4/N1,4,37.784178,-122.405776
-Bespoke Events,Level 4/N1,4,37.783859,-122.40635
-Bose,Level 4/N1,4,37.784539,-122.406081
-Nordstrom,Level 4/N1,4,37.78382,-122.407311
-Bloomingdale's,Level 4/N1,4,37.783802,-122.405736
-Nordstrom,Level 5/N2,5,37.784076,-122.407307
-Century San Francisco Centre 9,Level 5/N2,5,37.78389,-122.405736
-Burke Williams Day Spa,Level 5/N2,5,37.784204,-122.406574
-Nordstrom,N3,6,37.78409,-122.407309
-Nordstrom,N4,7,37.784073,-122.407289
-Nordstrom,N5,8,37.784087,-122.407307
+TAP 415,Level 4,4,37.78442,-122.406832
+Optica,Level 4,4,37.784702,-122.406248
+M.Y. China,Level 4,4,37.784206,-122.406528
+Bespoke Coworking,Level 4,4,37.784178,-122.405776
+Bespoke Events,Level 4,4,37.783859,-122.40635
+Bose,Level 4,4,37.784539,-122.406081
+NordstromN1,Level 4,4,37.78382,-122.407311
+Bloomingdale's,Level 4,4,37.783802,-122.405736
+NordstromN2,Level 5,5,37.784076,-122.407307
+Century San Francisco Centre 9,Level 5,5,37.78389,-122.405736
+Burke Williams Day Spa,Level 5,5,37.784204,-122.406574
